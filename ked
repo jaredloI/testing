@@ -1,4 +1,4 @@
-local whitelist = { owner = {2666370654}, admin = {2415012731},}
+local whitelist = { owner = {2341657889}, admin = {2755506985},}
  
     owner = false admin = false
  
